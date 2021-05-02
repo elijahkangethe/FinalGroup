@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dd79110-2b59-491a-9b99-bd5d55ca0053" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/.idea/portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/dist/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/dist/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/src/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/portfolio/webpack.config.js" afterDir="false" />
+    <list default="true" id="2dd79110-2b59-491a-9b99-bd5d55ca0053" name="Default Changelist" comment="update site">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +36,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elijah\WebstormProjects\FinalGroup\docs" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,8 +52,16 @@
       <workItem from="1619580624915" duration="314000" />
       <workItem from="1619580972329" duration="428000" />
       <workItem from="1619835084264" duration="627000" />
-      <workItem from="1619992951061" duration="587000" />
+      <workItem from="1619992951061" duration="992000" />
     </task>
+    <task id="LOCAL-00001" summary="update site">
+      <created>1619993619280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619993619280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +78,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update site" />
+    <option name="LAST_COMMIT_MESSAGE" value="update site" />
   </component>
 </project>
