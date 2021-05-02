@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-component="slideshow"]').forEach((function(e){var t=document.querySelectorAll("#".concat(e.id,' [role="list"] .slide')),c=0;t[c].classList.add("active"),setInterval((function(){t[c].classList.remove("active"),++c===t.length&&(c=0),t[c].classList.add("active")}),5e3)}));

@@ -1,0 +1,12 @@
+[data-component="slideshow"] .slide {
+    display: none;
+  }
+
+  [data-component="slideshow"] .slide.active {
+    display: block;
+  }
+  .container {
+      width: 50%;
+      text-align: center;
+      margin-top: 40px;
+  }
